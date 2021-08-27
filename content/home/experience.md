@@ -31,7 +31,6 @@ experience:
     date_end: '2021-05'
     description: |2-
         Responsibilities include:
-        
         * Analysing
         * Deploying
         
