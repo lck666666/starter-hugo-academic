@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Changkun Liu
+title: 刘长坤 (Changkun Liu)
 
 # Is this the primary user of the site?
 superuser: true
