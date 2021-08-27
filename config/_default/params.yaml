@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: ''
+font: 'Minimal'
 font_size: L
 
 # SEO
@@ -22,7 +22,7 @@ twitter: ''
 
 email: cliudg@connect.ust.hk
 address:
-  street: Hong Kong University of Science and Technology, Clear Water Bay
+  street: HKUST, Clear Water Bay
   city: Hong Kong
   country: China
 contact_links:
