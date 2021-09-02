@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: 'Minimal'
+font: ''
 font_size: L
 
 # SEO
@@ -20,28 +20,16 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: cliudg@connect.ust.hk
+email: changkun.liu AT connect DOT ust DOT hk
 address:
-  street: Clear Water Bay
-  city: Hong Kong
+  street: HKUST, Clear Water Bay
+  city: Kowloon, Hong Kong
+  region: CA
   country: China
-#contact_links:
-  #- icon: twitter
-  #  icon_pack: fab
-  #  name: DM Me
-  #  link: 'https://twitter.com/Twitter'
-  #- icon: skype
-  #  icon_pack: fab
-  #  name: Skype Me
-  #  link: 'skype:echo123?call'
-  #- icon: keybase
-  #  icon_pack: fab
-  #  name: Chat on Keybase
-  #  link: 'https://keybase.io/'
-  #- icon: comments
-  #  icon_pack: fas
-  #  name: Discuss on Forum
-  #  link: 'https://discourse.gohugo.io'
+  country_code: CN
+coordinates:
+  latitude: '22.20'
+  longitude: '15.00'
 
 # Site header
 
@@ -65,6 +53,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
+  - python
+  - latex
 math: false
 diagram: false
 privacy_pack: false
@@ -129,7 +119,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: mapnik
   api_key: ''
   zoom: 15
 marketing:
@@ -143,4 +133,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: false
