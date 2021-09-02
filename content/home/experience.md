@@ -25,7 +25,6 @@ experience:
   - title: Software Engineer Intern
     company: Intel
     company_url: ''
-    company_logo: org-gc
     location: Shanghai
     date_start: '2020-05-01'
     date_end: '2021-06-01'
@@ -38,7 +37,6 @@ experience:
   - title: Exchange student
     company: University of Washington
     company_url: ''
-    company_logo: org-x
     location: Washington
     date_start: '2016-07-01'
     date_end: '2020-08-31'
