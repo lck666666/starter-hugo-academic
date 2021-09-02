@@ -18,9 +18,9 @@ bio: My research interests include Augmented/Virtual Reality, and Pervasive and 
 
 # Interests to show in About widget
 interests:
-- AR/VR
-- AI
+- HCI (AR/VR)
 - Cloud/Edge Computing
+- AI
 
 # Education to show in About widget
 education:
@@ -28,7 +28,7 @@ education:
   - course: PhD in Computer Science and Engineering
     institution: HKUST
     year: 2021-now
-  - course: Beng in Electronic Science and Technology
+  - course: B.Eng in Electronic Science and Technology
     institution: Shanghai Jiao Tong University
     year: 2017-2021
 
@@ -61,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-Changkun Liu is PhD student @ HKUST CSE
+Changkun Liu is a PhD student @ HKUST CSE.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

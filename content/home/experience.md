@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Engineer Intern
-    company: Intel Asia-Pacific Research & Development Ltd.
+    company: Intel Asia-Pacific R&D Ltd.
     company_url: ''
     location: Shanghai
     date_start: '2020-05-01'
@@ -37,7 +37,7 @@ experience:
   - title: Exchange student
     company: University of Washington
     company_url: ''
-    location: Washington
+    location: Seattle
     date_start: '2016-07-01'
     date_end: '2020-08-31'
     description: Summer Exchange Program (GLOBAL ELECTRICAL&COMPUTER ENGINEERING PROGRAMS)
