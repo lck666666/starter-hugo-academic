@@ -24,12 +24,11 @@ email: changkun.liu AT connect DOT ust DOT hk
 address:
   street: HKUST, Clear Water Bay
   city: Kowloon, Hong Kong
-  region: CA
   country: China
   country_code: CN
 coordinates:
-  latitude: '22.20'
-  longitude: '15.00'
+  latitude: '22.3375'
+  longitude: '114.263'
 
 # Site header
 
