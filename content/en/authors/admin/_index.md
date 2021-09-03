@@ -61,7 +61,7 @@ email: "changkun.liu@connect.ust.hk"
 highlight_name: false
 ---
 
-Changkun Liu is a PhD student @ HKUST CSE advised by Prof. Tristan Braud. Before that, I received my Bachelor degree from Shanghai Jiao Tong University in June 2021, advised by Prof. Shizhen Zhao.
+I am a PhD student @ HKUST CSE advised by Prof. Tristan Braud. Before that, I received my Bachelor degree from Shanghai Jiao Tong University in June 2021, advised by Prof. Shizhen Zhao.
 
 
 
