@@ -61,6 +61,6 @@ email: "changkun.liu@connect.ust.hk"
 highlight_name: false
 ---
 
-I am a PhD student @ HKUST CSE advised by Prof. [Tristan Braud](https://www.cse.ust.hk/~braudt/). Before that, I received my Bachelor degree from Shanghai Jiao Tong University in June 2021, advised by Prof. [Shizhen Zhao]https://jhc.sjtu.edu.cn/~shizhenzhao/).
+I am a PhD student @ HKUST CSE advised by Prof. [Tristan Braud](https://www.cse.ust.hk/~braudt/). Before that, I received my Bachelor degree from Shanghai Jiao Tong University in June 2021, advised by Prof. [Shizhen Zhao](https://jhc.sjtu.edu.cn/~shizhenzhao/).
 
 
