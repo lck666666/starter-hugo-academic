@@ -14,7 +14,7 @@ organizations:
   url: https://hkust.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究兴趣包括增强/虚拟现实，普适和云计算，物联网。
+bio: 我的研究兴趣包括增强/虚拟现实，普适和云计算，物联网。我本科受指导于上海交通大学赵世振教授。在香港科技大学，我的导师为Tristan Braud教授。
 
 # Interests to show in About widget
 感兴趣的方向:
