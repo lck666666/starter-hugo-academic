@@ -64,5 +64,3 @@ highlight_name: false
 I am a PhD student @ HKUST CSE advised by Prof. Tristan Braud. Before that, I received my Bachelor degree from Shanghai Jiao Tong University in June 2021, advised by Prof. Shizhen Zhao.
 
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

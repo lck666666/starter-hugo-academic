@@ -65,4 +65,3 @@ highlight_name: false
 我现在是香港科技大学的计算机科学与工程在读博士生。在香港科技大学，我的导师为Tristan Braud教授。在此之前，
 我本科受指导于上海交通大学赵世振教授。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
