@@ -39,7 +39,7 @@ education:
 social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google
 - icon: github
   icon_pack: fab
   link: https://github.com/lck666666
@@ -50,9 +50,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,6 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-Changkun Liu is a PhD student @ HKUST CSE.
+Changkun Liu is a PhD student @ HKUST CSE advised by Prof. Tristan Braud. Before that, I received my Bachelor degree from Shanghai Jiao Tong University in June 2021, advised by Prof. Shizhen Zhao.
+
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

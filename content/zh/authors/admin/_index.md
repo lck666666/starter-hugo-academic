@@ -14,8 +14,8 @@ organizations:
   url: https://hkust.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究兴趣包括增强/虚拟现实，普适和云计算，物联网。我本科受指导于上海交通大学赵世振教授。在香港科技大学，我的导师为Tristan Braud教授。
-
+bio: 我的研究兴趣包括增强/虚拟现实，普适和云计算，物联网。在香港科技大学，我的导师为Tristan Braud教授。在此之前，
+我本科受指导于上海交通大学赵世振教授。
 # Interests to show in About widget
 感兴趣的方向:
 - 人机交互（AR/VR)
@@ -50,9 +50,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
