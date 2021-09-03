@@ -6,30 +6,30 @@ title: 刘长坤 (Changkun Liu)
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: 博士学生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name:  The Hong Kong University of Science and Technology
+- name:  香港科技大学
   url: https://hkust.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Augmented/Virtual Reality, and Pervasive and Cloud Computing, Internet of Things.
+bio: 我的研究兴趣包括增强/虚拟现实，普适和云计算，物联网。
 
 # Interests to show in About widget
-interests:
-- HCI (AR/VR)
-- Cloud/Edge Computing
-- AI
+感兴趣的方向:
+- 人机交互（AR/VR)
+- 普适计算/云计算/边缘计算
+- 人工智能
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science and Engineering
-    institution: HKUST
-    year: 2021-now
-  - course: B.Eng in Electronic Science and Technology
-    institution: Shanghai Jiao Tong University
+  - course: 计算机科学与工程博士
+    institution: 香港科技大学
+    year: 2021-至今
+  - course: 电子科学与技术工程学士
+    institution: 上海交通大学
     year: 2017-2021
 
 # Social/Academic Networking
@@ -61,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-Changkun Liu is a PhD student @ HKUST CSE.
+刘长坤现在是香港科技大学的计算机科学与工程在读博士生。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
