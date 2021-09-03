@@ -38,8 +38,8 @@ experience:
     company: University of Washington
     company_url: ''
     location: Seattle
-    date_start: '2016-07-01'
-    date_end: '2020-08-15'
+    date_start: '2019-07-01'
+    date_end: '2019-08-15'
     description: Summer Exchange Program (GLOBAL ELECTRICAL&COMPUTER ENGINEERING PROGRAMS)
 
 design:
