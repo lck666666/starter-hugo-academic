@@ -26,8 +26,8 @@ experience:
     company: 英特尔亚太研发中心
     company_url: ''
     location: 上海
-    date_start: '2020-06'
-    date_end: '2021-05'
+    date_start: '2020-06-01'
+    date_end: '2021-05-31'
     description: |2-
         Responsibilities include:
         
@@ -38,8 +38,8 @@ experience:
     company: 华盛顿大学
     company_url: ''
     location: 西雅图
-    date_start: '2019-07'
-    date_end: '2019-08'
+    date_start: '2019-07-01'
+    date_end: '2019-08-15'
     description: Summer Exchange Program (GLOBAL ELECTRICAL&COMPUTER ENGINEERING PROGRAMS)
 
 design:
