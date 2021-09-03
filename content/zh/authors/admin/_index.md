@@ -62,6 +62,5 @@ email: "changkun.liu@connect.ust.hk"
 highlight_name: false
 ---
 
-我现在是香港科技大学的计算机科学与工程在读博士生。在香港科技大学，我的导师为Tristan Braud教授。在此之前，
-我本科受指导于上海交通大学[赵世振教授](https://jhc.sjtu.edu.cn/~shizhenzhao/)。
+我现在是香港科技大学的计算机科学与工程在读博士生。在香港科技大学，我的导师为[Tristan Braud](https://www.cse.ust.hk/~braudt/)教授。在此之前，我本科受指导于上海交通大学[赵世振](https://jhc.sjtu.edu.cn/~shizhenzhao/)教授。
 
